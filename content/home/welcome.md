@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: recent-posts
+widget_id: front-page
 headless: true
 weight: 10
 title: Hoi Polloi Lab
@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-The **Hoi Polloi Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Hoi Polloi Lab** studies the ecology and evolution of host-microbe interactions. We combine field observations, experimental evolution, and mathematical modeling to understand how microbial organisms spread, persist, and affect their host populations.
