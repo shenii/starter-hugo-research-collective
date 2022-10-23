@@ -26,7 +26,9 @@ social:
     link: https://github.com/shenii
     icon_pack: ai
     icon: envelope
-organizations: []
+organizations:
+  - name: University of North Carolina Chapel Hill
+    url: https://bio.unc.edu/
 education:
   courses: []
 email: ""
